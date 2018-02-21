@@ -1,2 +1,3 @@
 # dogcat
-Dog VS Cat Classifier using TensorFlow
+Dog/Cat Image Classifier using CNN.
+Libraries Required: TensorFlow, tflearn, numpy, tqdm, matplotlib, random
